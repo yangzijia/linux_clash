@@ -4,7 +4,7 @@
 
 # Linux 翻墙教程 2026-0425
 
-来源：fanqiang.gitbook.io/fanqiang/linux
+来源：[fanqiang.gitbook.io/fanqiang/linux](https://fanqiang.gitbook.io/fanqiang/linux)
 
 ## 一、创建并进入程序目录
 
@@ -17,6 +17,8 @@ cd ~/.config/mihomo/
 ```
 
 ## 二、下载最新版本 Clash (mihomo)
+
+https://github.com/MetaCubeX/mihomo/releases
 
 wget -O clash-linux.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.17.0/mihomo-linux-amd64-v1.17.0.gz
 
